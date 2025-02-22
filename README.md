@@ -3,7 +3,7 @@
 Bem-vindo ao meu GitHub! 🚀 Aqui você encontrará projetos, exercicios e desafios interessantes abordando diversos temas e linguagens de programação
 
 ## 🚀 Sobre mim
-- 🎮 Atualmente cursando Engenharia de Software pela FIAP
+- 📖 Atualmente cursando Engenharia de Software pela FIAP
 - 💼 Estagiando na **Vivo Telefoncia** - **PMO área de Métricas e Portifólio (TI)**
 - 🧑🏽‍💻 Entusiasta em desenvolvimento web e apaixonado por tecnologia
 - 💡 Sempre buscando aprender algo novo
