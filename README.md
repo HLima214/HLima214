@@ -1,6 +1,6 @@
 # 👋 Olá, mundo! Eu sou Henrique Lima!
 
-Bem-vindo ao meu GitHub! 🚀 Aqui você encontrará projetos, exercicios e desafios interessantes.
+Bem-vindo ao meu GitHub! 🚀 Aqui você encontrará projetos, exercicios e desafios interessantes abordando diversos temas e linguagens de programação
 
 ## 🚀 Sobre mim
 - 🎮 Atualmente cursando Engenharia de Software pela FIAP
