@@ -25,10 +25,12 @@ Bem-vindo ao meu GitHub! 🚀 Aqui você encontrará projetos, exercicios e desa
 
 ## 📌 Projetos em Destaque
 
-### 🕵️‍♂️ **Campo Minado Alternativo**
-[🔗 Repositório](https://github.com/seu-usuario/nome-do-repositorio)
+### **Tela de vendas**
+[🔗 Repositório](https://github.com/HLima214/Projeto_Fiap.Vendas)
 
-Um jogo estilo Campo Minado, onde os jogadores precisam encontrar os números escondidos em uma matriz cheia de letras aleatórias. Criado em Python para desafiar sua lógica e estratégia!
+Desenvolvendo uma tela de vendas em C#, simulando como funcionaria o sistema 
+
+![Static Badge](https://img.shields.io/badge/N%C3%A3o-Concluido-Concluido?color=%23FF0000)
 
 ## 📫 Como me encontrar?
 
