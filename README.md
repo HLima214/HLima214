@@ -26,8 +26,6 @@ Bem-vindo ao meu GitHub! 🚀 Aqui você encontrará projetos, exercicios e desa
 ## 📌 Projetos em Destaque
 
 
-![Static Badge](https://img.shields.io/badge/N%C3%A3o-Concluido-Concluido?color=%23FF0000)
-
 ## 📫 Como me encontrar?
 
 - ✉️ Email: [riquelima00@gmail.com]
