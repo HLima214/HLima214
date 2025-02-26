@@ -25,10 +25,6 @@ Bem-vindo ao meu GitHub! 🚀 Aqui você encontrará projetos, exercicios e desa
 
 ## 📌 Projetos em Destaque
 
-### **Tela de vendas**
-[🔗 Repositório](https://github.com/HLima214/Projeto_Fiap.Vendas)
-
-Desenvolvendo uma tela de vendas em C#, simulando como funcionaria o sistema 
 
 ![Static Badge](https://img.shields.io/badge/N%C3%A3o-Concluido-Concluido?color=%23FF0000)
 
